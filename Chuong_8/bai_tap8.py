@@ -200,7 +200,7 @@ print("A=(x*x+x+1)^n+(x*x-x+1)^n=",A)
 
 
 8.12
-n = int(input("Nhập số n = "))
+n = (input("Nhập số n = "))
 flag = True 
 if n < 2 :
     print(n, "Không nguyên tố !!!")
